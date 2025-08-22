@@ -27,17 +27,5 @@ It uses **Naive Bayes Classification** on text data to detect whether an email/m
 ## 📂 Project Structure
 
 ---
-
-## 🔧 Setup Instructions
-
-### ✅ Prerequisites
-- Python (>=3.8)
-- Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-# Clone the repo
-git clone https://github.com/your-username/spam-ham-classifier.git
-cd spam-ham-classifier
-
-# Run Flask app
-python app.py
+👩‍💻 Author
+Email: domalerutuja@gmail.com
