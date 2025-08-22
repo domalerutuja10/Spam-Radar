@@ -23,9 +23,5 @@ It uses **Naive Bayes Classification** on text data to detect whether an email/m
 - **HTML/CSS** (frontend templates)
 
 ---
-
-## 📂 Project Structure
-
----
 👩‍💻 Author
 Email: domalerutuja@gmail.com
